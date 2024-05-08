@@ -1,30 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\",
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\tp-ok\\backlogtool\\backlogtool\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\backlogtool\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\backlogtool\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\backlogtool\\backlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\backlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\backlogtool\\backlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|c:\\users\\maria\\onedrive\\desktop\\teamproject\\backlogtool\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\backlogtool\\backlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\backlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\editentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\backlogtool\\backlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0723EF2-C403-4DA5-88F5-8DF4E2FCEF68}|BackLogTool\\BackLogTool.csproj|solutionrelative:backlogtool\\backlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +66,76 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\main.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\main.cs",
               "RelativeDocumentMoniker": "BackLogTool\\main.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\main.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\main.cs",
               "RelativeToolTip": "BackLogTool\\main.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAABEwCUAAAAfAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAA6wB4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T14:40:58.502Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\Login.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\Login.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\Login.cs",
+              "RelativeToolTip": "BackLogTool\\Login.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:11:06.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registerPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\registerPage.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\registerPage.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\registerPage.cs [Design]",
+              "RelativeToolTip": "BackLogTool\\registerPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:36:50.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\Login.Designer.cs",
+              "RelativeToolTip": "BackLogTool\\Login.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAA5wIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:36:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registerPage.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\registerPage.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\registerPage.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\registerPage.cs",
+              "RelativeToolTip": "BackLogTool\\registerPage.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA8wBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:40:31.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\main.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\main.cs",
               "RelativeDocumentMoniker": "BackLogTool\\main.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\main.cs [Design]",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\main.cs [Design]",
               "RelativeToolTip": "BackLogTool\\main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T14:40:56.708Z",
@@ -63,49 +143,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "editEntry.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\editEntry.cs",
-              "RelativeDocumentMoniker": "BackLogTool\\editEntry.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\editEntry.cs",
-              "RelativeToolTip": "BackLogTool\\editEntry.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA6wCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:34:23.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "editEntry.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\editEntry.cs",
-              "RelativeDocumentMoniker": "BackLogTool\\editEntry.cs",
-              "ToolTip": "C:\\Facultate\\TP\\BackLogTool\\BackLogTool\\editEntry.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Facultate\\TP\\BackLogTool\\BackLogTool\\editEntry.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:32:45.417Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "backlog.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\backlog.cs",
-              "RelativeDocumentMoniker": "BackLogTool\\backlog.cs",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\backlog.cs",
-              "RelativeToolTip": "BackLogTool\\backlog.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA6wCYAAAAAAAAA",
+              "Title": "main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\main.Designer.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\main.Designer.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\main.Designer.cs",
+              "RelativeToolTip": "BackLogTool\\main.Designer.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAA5wH8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:25:10.743Z"
+              "WhenOpened": "2024-05-08T15:18:36.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "backlog.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TP-ok\\BackLogTool\\BackLogTool\\backlog.cs",
-              "RelativeDocumentMoniker": "BackLogTool\\backlog.cs",
-              "ToolTip": "C:\\Facultate\\TP\\BackLogTool\\BackLogTool\\backlog.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Facultate\\TP\\BackLogTool\\BackLogTool\\backlog.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\Login.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\Login.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\Login.cs [Design]",
+              "RelativeToolTip": "BackLogTool\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:21:37.506Z"
+              "WhenOpened": "2024-05-08T14:30:58.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "monitoring.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\monitoring.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\monitoring.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\monitoring.cs [Design]",
+              "RelativeToolTip": "BackLogTool\\monitoring.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:21:10.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "editEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\editEntry.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\editEntry.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\editEntry.cs [Design]",
+              "RelativeToolTip": "BackLogTool\\editEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:32:45.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "backlog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\backlog.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\backlog.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\backlog.cs [Design]",
+              "RelativeToolTip": "BackLogTool\\backlog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:21:37.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "editEntry.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\editEntry.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\editEntry.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\editEntry.cs",
+              "RelativeToolTip": "BackLogTool\\editEntry.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:34:23.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "backlog.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\backlog.cs",
+              "RelativeDocumentMoniker": "BackLogTool\\backlog.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\TeamProject\\BackLogTool\\backlog.cs",
+              "RelativeToolTip": "BackLogTool\\backlog.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAowEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:25:10.743Z",
+              "EditorCaption": ""
             }
           ]
         }

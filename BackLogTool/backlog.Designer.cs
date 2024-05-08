@@ -39,8 +39,8 @@
             this.backlogOwnerTextBox = new System.Windows.Forms.TextBox();
             this.backlogOwnerLabel = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.backlogToolDatabaseDataSet = new BackLogTool.BacklogToolDatabaseDataSet();
             this.backlogBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.backlogToolDatabaseDataSet = new BackLogTool.BacklogToolDatabaseDataSet();
             this.backlogTableAdapter = new BackLogTool.BacklogToolDatabaseDataSetTableAdapters.BacklogTableAdapter();
             this.tCNameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ownerDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -49,8 +49,8 @@
             this.defectDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.prioDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.backlogToolDatabaseDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.backlogBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.backlogToolDatabaseDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // backlogUnassignedCheckBox
@@ -162,15 +162,15 @@
             this.dataGridView1.TabIndex = 19;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
-            // backlogToolDatabaseDataSet
-            // 
-            this.backlogToolDatabaseDataSet.DataSetName = "BacklogToolDatabaseDataSet";
-            this.backlogToolDatabaseDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
             // backlogBindingSource
             // 
             this.backlogBindingSource.DataMember = "Backlog";
             this.backlogBindingSource.DataSource = this.backlogToolDatabaseDataSet;
+            // 
+            // backlogToolDatabaseDataSet
+            // 
+            this.backlogToolDatabaseDataSet.DataSetName = "BacklogToolDatabaseDataSet";
+            this.backlogToolDatabaseDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // backlogTableAdapter
             // 
@@ -202,7 +202,7 @@
             // 
             // jiraTicketDataGridViewTextBoxColumn
             // 
-            this.jiraTicketDataGridViewTextBoxColumn.DataPropertyName = "Jira Ticket";
+            this.jiraTicketDataGridViewTextBoxColumn.DataPropertyName = "jira";
             this.jiraTicketDataGridViewTextBoxColumn.HeaderText = "Jira Ticket";
             this.jiraTicketDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.jiraTicketDataGridViewTextBoxColumn.Name = "jiraTicketDataGridViewTextBoxColumn";
@@ -244,8 +244,8 @@
             this.Text = "backlog";
             this.Load += new System.EventHandler(this.backlog_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.backlogToolDatabaseDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.backlogBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.backlogToolDatabaseDataSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

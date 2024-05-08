@@ -46,7 +46,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(96, 35);
+            this.label1.Location = new System.Drawing.Point(111, 31);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(103, 25);
             this.label1.TabIndex = 0;
@@ -173,6 +173,7 @@
             this.editEntryDoneButton.TabIndex = 12;
             this.editEntryDoneButton.Text = "Done";
             this.editEntryDoneButton.UseVisualStyleBackColor = true;
+            this.editEntryDoneButton.Click += new System.EventHandler(this.editEntryDoneButton_Click);
             // 
             // editEntry
             // 

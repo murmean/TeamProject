@@ -36,5 +36,10 @@ namespace BackLogTool
         {
 
         }
+
+        private void editEntryDoneButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

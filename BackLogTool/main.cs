@@ -28,14 +28,16 @@ namespace BackLogTool
         private void button1_Click(object sender, EventArgs e)
         {
             monitoring monitPage = new monitoring();
-            monitPage.Show();
+            monitPage.ShowDialog();
             
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+        
             backlog backlogPage = new backlog();
-            backlogPage.Show();
+            backlogPage.ShowDialog();
+
         }
 
         private void main_Load(object sender, EventArgs e)
@@ -47,5 +49,12 @@ namespace BackLogTool
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+       
     }
 }
