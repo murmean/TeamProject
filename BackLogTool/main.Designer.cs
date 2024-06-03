@@ -31,73 +31,34 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(main));
             this.mainMonitoringButton = new System.Windows.Forms.Button();
-            this.mainDefectsButton = new System.Windows.Forms.Button();
             this.mainBacklogButton = new System.Windows.Forms.Button();
-            this.mainRevertsButton = new System.Windows.Forms.Button();
-            this.mainStatisticsButton = new System.Windows.Forms.Button();
-            this.mainTeamManagementButton = new System.Windows.Forms.Button();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // mainMonitoringButton
             // 
-            this.mainMonitoringButton.Location = new System.Drawing.Point(824, 34);
+            this.mainMonitoringButton.Location = new System.Drawing.Point(618, 118);
+            this.mainMonitoringButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.mainMonitoringButton.Name = "mainMonitoringButton";
-            this.mainMonitoringButton.Size = new System.Drawing.Size(242, 50);
+            this.mainMonitoringButton.Size = new System.Drawing.Size(182, 41);
             this.mainMonitoringButton.TabIndex = 0;
             this.mainMonitoringButton.Text = "Monitoring";
             this.mainMonitoringButton.UseVisualStyleBackColor = true;
             this.mainMonitoringButton.Click += new System.EventHandler(this.button1_Click);
             // 
-            // mainDefectsButton
-            // 
-            this.mainDefectsButton.Location = new System.Drawing.Point(824, 165);
-            this.mainDefectsButton.Name = "mainDefectsButton";
-            this.mainDefectsButton.Size = new System.Drawing.Size(242, 50);
-            this.mainDefectsButton.TabIndex = 0;
-            this.mainDefectsButton.Text = "Defects";
-            this.mainDefectsButton.UseVisualStyleBackColor = true;
-            // 
             // mainBacklogButton
             // 
-            this.mainBacklogButton.Location = new System.Drawing.Point(824, 99);
+            this.mainBacklogButton.Location = new System.Drawing.Point(618, 175);
+            this.mainBacklogButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.mainBacklogButton.Name = "mainBacklogButton";
-            this.mainBacklogButton.Size = new System.Drawing.Size(242, 50);
+            this.mainBacklogButton.Size = new System.Drawing.Size(182, 41);
             this.mainBacklogButton.TabIndex = 1;
             this.mainBacklogButton.Text = "Backlog";
             this.mainBacklogButton.UseVisualStyleBackColor = true;
             this.mainBacklogButton.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // mainRevertsButton
-            // 
-            this.mainRevertsButton.Location = new System.Drawing.Point(824, 234);
-            this.mainRevertsButton.Name = "mainRevertsButton";
-            this.mainRevertsButton.Size = new System.Drawing.Size(242, 50);
-            this.mainRevertsButton.TabIndex = 2;
-            this.mainRevertsButton.Text = "Reverts";
-            this.mainRevertsButton.UseVisualStyleBackColor = true;
-            // 
-            // mainStatisticsButton
-            // 
-            this.mainStatisticsButton.Location = new System.Drawing.Point(824, 303);
-            this.mainStatisticsButton.Name = "mainStatisticsButton";
-            this.mainStatisticsButton.Size = new System.Drawing.Size(242, 50);
-            this.mainStatisticsButton.TabIndex = 3;
-            this.mainStatisticsButton.Text = "Statistics";
-            this.mainStatisticsButton.UseVisualStyleBackColor = true;
-            // 
-            // mainTeamManagementButton
-            // 
-            this.mainTeamManagementButton.Location = new System.Drawing.Point(824, 411);
-            this.mainTeamManagementButton.Name = "mainTeamManagementButton";
-            this.mainTeamManagementButton.Size = new System.Drawing.Size(242, 50);
-            this.mainTeamManagementButton.TabIndex = 4;
-            this.mainTeamManagementButton.Text = "Team Management";
-            this.mainTeamManagementButton.UseVisualStyleBackColor = true;
-            this.mainTeamManagementButton.Click += new System.EventHandler(this.mainTeamManagementButton_Click);
             // 
             // imageList1
             // 
@@ -105,40 +66,39 @@
             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
             this.imageList1.Images.SetKeyName(0, "image.png");
             // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::BackLogTool.Properties.Resources.image1;
-            this.pictureBox2.Location = new System.Drawing.Point(111, 34);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(403, 259);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 6;
-            this.pictureBox2.TabStop = false;
-            // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(111, 411);
+            this.button1.Location = new System.Drawing.Point(618, 345);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(128, 50);
+            this.button1.Size = new System.Drawing.Size(182, 41);
             this.button1.TabIndex = 7;
             this.button1.Text = "Exit";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::BackLogTool.Properties.Resources.team;
+            this.pictureBox2.Location = new System.Drawing.Point(83, 28);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(302, 210);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 6;
+            this.pictureBox2.TabStop = false;
+            // 
             // main
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Highlight;
-            this.ClientSize = new System.Drawing.Size(1134, 518);
+            this.ClientSize = new System.Drawing.Size(850, 421);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.mainTeamManagementButton);
-            this.Controls.Add(this.mainStatisticsButton);
-            this.Controls.Add(this.mainRevertsButton);
             this.Controls.Add(this.mainBacklogButton);
-            this.Controls.Add(this.mainDefectsButton);
             this.Controls.Add(this.mainMonitoringButton);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "main";
             this.Text = "main";
             this.Load += new System.EventHandler(this.main_Load);
@@ -150,14 +110,10 @@
         #endregion
 
         private System.Windows.Forms.Button mainMonitoringButton;
-        private System.Windows.Forms.Button mainDefectsButton;
         private System.Windows.Forms.Button mainBacklogButton;
-        private System.Windows.Forms.Button mainRevertsButton;
-        private System.Windows.Forms.Button mainStatisticsButton;
-        private System.Windows.Forms.Button mainTeamManagementButton;
         private System.Windows.Forms.ImageList imageList1;
-        private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }
 

@@ -39,14 +39,16 @@
             this.labelEmail = new System.Windows.Forms.Label();
             this.labelUsername = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // register
             // 
-            this.register.Location = new System.Drawing.Point(410, 321);
+            this.register.Location = new System.Drawing.Point(308, 261);
+            this.register.Margin = new System.Windows.Forms.Padding(2);
             this.register.Name = "register";
-            this.register.Size = new System.Drawing.Size(75, 29);
+            this.register.Size = new System.Drawing.Size(56, 24);
             this.register.TabIndex = 24;
             this.register.Text = "Register";
             this.register.UseVisualStyleBackColor = true;
@@ -54,9 +56,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(323, 321);
+            this.button2.Location = new System.Drawing.Point(242, 261);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 29);
+            this.button2.Size = new System.Drawing.Size(56, 24);
             this.button2.TabIndex = 22;
             this.button2.Text = "Exit";
             this.button2.UseVisualStyleBackColor = true;
@@ -64,39 +67,45 @@
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(323, 276);
+            this.txtPassword.Location = new System.Drawing.Point(242, 224);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(2);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(162, 22);
+            this.txtPassword.Size = new System.Drawing.Size(122, 20);
             this.txtPassword.TabIndex = 20;
+            this.txtPassword.UseSystemPasswordChar = true;
             // 
             // txtTeam
             // 
-            this.txtTeam.Location = new System.Drawing.Point(323, 237);
+            this.txtTeam.Location = new System.Drawing.Point(242, 193);
+            this.txtTeam.Margin = new System.Windows.Forms.Padding(2);
             this.txtTeam.Name = "txtTeam";
-            this.txtTeam.Size = new System.Drawing.Size(162, 22);
+            this.txtTeam.Size = new System.Drawing.Size(122, 20);
             this.txtTeam.TabIndex = 19;
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(323, 201);
+            this.txtEmail.Location = new System.Drawing.Point(242, 163);
+            this.txtEmail.Margin = new System.Windows.Forms.Padding(2);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(162, 22);
+            this.txtEmail.Size = new System.Drawing.Size(122, 20);
             this.txtEmail.TabIndex = 18;
             // 
             // txtUsername
             // 
-            this.txtUsername.Location = new System.Drawing.Point(323, 161);
+            this.txtUsername.Location = new System.Drawing.Point(242, 131);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(2);
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(162, 22);
+            this.txtUsername.Size = new System.Drawing.Size(122, 20);
             this.txtUsername.TabIndex = 17;
             // 
             // labelPassword
             // 
             this.labelPassword.AutoSize = true;
             this.labelPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelPassword.Location = new System.Drawing.Point(179, 269);
+            this.labelPassword.Location = new System.Drawing.Point(134, 219);
+            this.labelPassword.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelPassword.Name = "labelPassword";
-            this.labelPassword.Size = new System.Drawing.Size(120, 29);
+            this.labelPassword.Size = new System.Drawing.Size(92, 24);
             this.labelPassword.TabIndex = 16;
             this.labelPassword.Text = "Password";
             // 
@@ -104,9 +113,10 @@
             // 
             this.labelTeam.AutoSize = true;
             this.labelTeam.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTeam.Location = new System.Drawing.Point(223, 230);
+            this.labelTeam.Location = new System.Drawing.Point(167, 187);
+            this.labelTeam.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelTeam.Name = "labelTeam";
-            this.labelTeam.Size = new System.Drawing.Size(76, 29);
+            this.labelTeam.Size = new System.Drawing.Size(59, 24);
             this.labelTeam.TabIndex = 15;
             this.labelTeam.Text = "Team";
             // 
@@ -114,9 +124,10 @@
             // 
             this.labelEmail.AutoSize = true;
             this.labelEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelEmail.Location = new System.Drawing.Point(225, 194);
+            this.labelEmail.Location = new System.Drawing.Point(169, 158);
+            this.labelEmail.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelEmail.Name = "labelEmail";
-            this.labelEmail.Size = new System.Drawing.Size(74, 29);
+            this.labelEmail.Size = new System.Drawing.Size(57, 24);
             this.labelEmail.TabIndex = 14;
             this.labelEmail.Text = "Email";
             // 
@@ -124,28 +135,42 @@
             // 
             this.labelUsername.AutoSize = true;
             this.labelUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelUsername.Location = new System.Drawing.Point(175, 154);
+            this.labelUsername.Location = new System.Drawing.Point(131, 125);
+            this.labelUsername.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelUsername.Name = "labelUsername";
-            this.labelUsername.Size = new System.Drawing.Size(124, 29);
+            this.labelUsername.Size = new System.Drawing.Size(97, 24);
             this.labelUsername.TabIndex = 13;
             this.labelUsername.Text = "Username";
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::BackLogTool.Properties.Resources.unnamed__1_;
-            this.pictureBox1.Location = new System.Drawing.Point(211, 26);
+            this.pictureBox1.Location = new System.Drawing.Point(158, 21);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(347, 96);
+            this.pictureBox1.Size = new System.Drawing.Size(260, 78);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 23;
             this.pictureBox1.TabStop = false;
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(383, 226);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(101, 17);
+            this.checkBox1.TabIndex = 25;
+            this.checkBox1.Text = "Show password";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // registerPage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.register);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button2);
@@ -157,6 +182,7 @@
             this.Controls.Add(this.labelTeam);
             this.Controls.Add(this.labelEmail);
             this.Controls.Add(this.labelUsername);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "registerPage";
             this.Text = "registerPage";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -178,5 +204,6 @@
         private System.Windows.Forms.Label labelTeam;
         private System.Windows.Forms.Label labelEmail;
         private System.Windows.Forms.Label labelUsername;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
